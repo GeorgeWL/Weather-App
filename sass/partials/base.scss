@@ -1,17 +1,23 @@
-@import url('https://fonts.googleapis.com/css?family=Lato|Oxygen');
-$header-font:'Oxygen', sans-serif;
-$body-font: 'Lato', sans-serif;
-// Styles
+@import url( 'https://fonts.googleapis.com/css?family=Lato|Oxygen');
+$header-font: 'Oxygen', sans-serif;
+$body-font: 'Lato', sans-serif; // Styles
+
 body {
   font-family: $body-font;
   font-weight: normal;
 }
-h1, h2, h3, h4, h5, h6 {
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: $header-font;
   font-weight: bold;
 }
 
 .button {
   font-family: $header-font;
-  font-weight: normala;
+  font-weight: normal;
 }
