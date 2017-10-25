@@ -1,0 +1,29 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "A Small Weather App created in JavaScript with NPM modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "-help"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgeWL/Weather-App.git"
+  },
+  "keywords": [
+    "weather",
+    "api",
+    "access",
+    "met",
+    "office",
+    "tester",
+    "web",
+    "app"
+  ],
+  "author": "GeorgeWL",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GeorgeWL/Weather-App/issues"
+  },
+  "homepage": "https://github.com/GeorgeWL/Weather-App#readme"
+}
